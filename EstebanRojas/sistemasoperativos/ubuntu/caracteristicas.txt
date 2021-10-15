@@ -1,0 +1,4 @@
+el sistema operativo es el conjunto de programas que hacen que todo el procesamiento logico 
+se reduzca a abrir ventanitas y programas, todo esta ahi solo que esta oculto y nosotros
+hacemos el procesamiento logico solo que desde una interfaz super intuitiva que no tenenmos
+la necesidad de entrar a la terminal y ejecutar los codigos.
